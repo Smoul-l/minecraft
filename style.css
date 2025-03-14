@@ -15,8 +15,8 @@ header {
 nav {
     position: fixed;
     left: 0;
-    top: 50px;
-    width: 120px;
+    top: 100px;
+    width: 200px;
 }
 
 nav a {
