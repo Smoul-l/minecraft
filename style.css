@@ -66,4 +66,5 @@ main img {
     width: 800px;
     justify-content: space-between;
     margin: 0 auto;
+    flex-wrap: wrap;
 }
